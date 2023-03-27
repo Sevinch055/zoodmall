@@ -1,0 +1,9 @@
+.small{
+    width: 130px;
+    height: 130px;
+    border: 1px solid red;
+}
+.small:nth-child(1){
+    background-color: #1bd28c;
+    color: white;
+}
